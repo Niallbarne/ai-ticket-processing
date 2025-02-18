@@ -1,0 +1,6 @@
+{
+    "access": "Hello {name}, we are fixing your {feature}. Priority: {priority_level}. ETA: {eta}.",
+    "billing": "Hi {name}, we received your billing inquiry and will respond within {eta}.",
+    "technical": "Dear {name}, our support team is looking into your issue. Expected resolution: {eta}.",
+    "feature": "Hello {name}, thank you for your feature request. We have noted it for future updates."
+}

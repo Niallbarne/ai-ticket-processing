@@ -1,0 +1,14 @@
+[
+    {
+        "content": "I need help resetting my password. It's urgent!",
+        "customer_info": {"name": "John", "role": "User"}
+    },
+    {
+        "content": "Can you provide details on my last billing statement?",
+        "customer_info": {"name": "Emma", "role": "Billing Admin"}
+    },
+    {
+        "content": "The website keeps crashing when I try to log in.",
+        "customer_info": {"name": "Michael", "role": "IT Manager"}
+    }
+]

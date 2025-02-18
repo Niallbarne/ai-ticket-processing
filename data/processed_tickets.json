@@ -1,0 +1,76 @@
+[
+    {
+        "ticket_analysis": {
+            "category": "technical",
+            "priority": 4,
+            "key_points": [
+                "I need help resetting my password",
+                "It's urgent!"
+            ],
+            "required_expertise": [
+                "Support Specialist"
+            ],
+            "sentiment": 0.5848,
+            "urgency_indicators": [
+                "urgent"
+            ],
+            "business_impact": "Low",
+            "suggested_response_type": "immediate",
+            "follow_up_required": false
+        },
+        "response": {
+            "response_text": "Dear Customer, our support team is looking into your issue. Expected resolution: 1 hour.",
+            "confidence_score": 0.9,
+            "requires_approval": true,
+            "suggested_actions": [
+                "Escalate to senior team"
+            ]
+        }
+    },
+    {
+        "ticket_analysis": {
+            "category": "billing",
+            "priority": 2,
+            "key_points": [
+                "Can you provide details on my last billing statement?"
+            ],
+            "required_expertise": [
+                "Billing Specialist"
+            ],
+            "sentiment": 0.0,
+            "urgency_indicators": [],
+            "business_impact": "Low",
+            "suggested_response_type": "standard",
+            "follow_up_required": false
+        },
+        "response": {
+            "response_text": "Hi Customer, we received your billing inquiry and will respond within 24 hours.",
+            "confidence_score": 0.9,
+            "requires_approval": false,
+            "suggested_actions": []
+        }
+    },
+    {
+        "ticket_analysis": {
+            "category": "technical",
+            "priority": 2,
+            "key_points": [
+                "The website keeps crashing when I try to log in"
+            ],
+            "required_expertise": [
+                "Support Specialist"
+            ],
+            "sentiment": 0.0,
+            "urgency_indicators": [],
+            "business_impact": "Low",
+            "suggested_response_type": "standard",
+            "follow_up_required": false
+        },
+        "response": {
+            "response_text": "Dear Customer, our support team is looking into your issue. Expected resolution: 24 hours.",
+            "confidence_score": 0.9,
+            "requires_approval": false,
+            "suggested_actions": []
+        }
+    }
+]
